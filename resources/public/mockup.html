@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <title>groov Eris - Loading...</title>
+
+    <link href="images/favicon.ico" rel="shortcut icon">
+    <link href="images/favicon-32.png" rel="icon" type="image/png" sizes="32x32">
+    <link href="images/favicon-64.png" rel="icon" type="image/png" sizes="64x64">
+    <link href="images/favicon-128.png" rel="icon" type="image/png" sizes="128x196">
+    <link href="images/favicon-196.png" rel="icon" type="image/png" sizes="196x196">
+    <link href="images/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png">
+    <link href="images/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png" sizes="76x76">
+    <link href="images/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png" sizes="120x120">
+    <link href="images/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png" sizes="152x152">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/groov.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div id="app">
+      <div class="navbar navbar-inverse navbar-static-top">
+        <div class="container-fluid">
+          <ul class="nav navbar-nav navbar-left page-menu">
+            <li class="dropdown open">
+              <a href="#" title="" aria-expanded="false">Sample Page Name <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li style="padding: 5px 10px 5px 10px">
+                  <input class="form-control" placeholder="Filter pages" type="search">
+                </li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">First Category</li>
+                <li><a href="#/page/1">A Page</a></li>
+                <li><a href="#/page/2">Another page</a></li>
+                <li class="dropdown-header">Second Category</li>
+                <li class="active"><a href="#/page/3">Sample Page</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="#/page" title="Pages"><i class="fa fa-file menu-icon"></i><span class="hidden-xs"> Pages</span></a></li>
+            <li><a href="#/events" title="Events"><i class="fa fa-exclamation-circle menu-icon"></i><span class="hidden-xs"> Events</span></a></li>
+            <li><a href="#/notifications" title="Notifications"><i class="fa fa-tasks menu-icon"></i><span class="hidden-xs"> Notifications</span></a></li>
+            <li class="dropdown open">
+              <a href="#" title="Menu" aria-expanded="false"><i class="fa fa-cog menu-icon"></i></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#/build"><i class="fa fa-wrench menu-icon"></i> <i>groov</i> Build</a></li>
+                <li><a href="#"><i class="fa fa-refresh menu-icon"></i> Refresh Pages</a></li>
+                <li><a href="#/change-password"><i class="fa fa-key menu-icon"></i> Change Password</a></li>
+                <li><a href="#"><i class="fa fa-sign-out menu-icon"></i> Sign out</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <h3 class="text-center">Loading <i>groov</i>...</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/app.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			window.onload = function() {
+				om_groov.core.main();
+			}
+		</script>
+  </body>
+ </html>
