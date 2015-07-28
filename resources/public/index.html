@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!-- Bootstrap because who has the time to futz with all that CSS? -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/groov.css" rel="stylesheet">
+
+    <title>Rendering groov</title>
+  </head>
+
+  <body>
+    <!-- We tell React to render into a named element, so everything within this div
+         is going to be replaced once we start rendering. -->
+    <div id="app">
+      <div class="container">
+        <div class="row"><div class="col-xs-12">
+    			<h3>If you can see this, the application hasn't started yet.</h3>
+        </div></div>
+      </div>
+    </div>
+
+    <!-- React makes use of some JavaScript ES5 features that aren't available in older
+         browsers, notably Safari on the iPad 1. These two shim scripts polyfill in enough
+         ES5 features for React to work. -->
+    <script src="js/es5-shim.min.js" type="application/javascript"></script>
+    <script src="js/es5-sham.min.js" type="application/javascript"></script>
+
+    <!-- When compiled for release, everything will be compiled down into one .js file: we
+         don't need to pull in Google Closure manually. -->
+    <script src="js/app.js" type="application/javascript"></script>
+    <script type="application/javascript">
+      // Still need to call main though, unless we leave that function call at the top-level
+      // of groov.core. Which I don't.
+      window.onload = function() {
+        groov.core.main();
+      }
+    </script>
+  </body>
+</html>
+

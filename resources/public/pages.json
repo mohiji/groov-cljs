@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 1,
+    "name": "Dials",
+    "category": "Uncategorized",
+    "navigationOrder": 0,
+    "gadgets": [
+      {
+        "desktopLayout": {
+          "x": 2,
+          "y": 6,
+          "z": 0,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 5,
+          "z": 0,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 25,
+          "y": 6,
+          "z": 1,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 5,
+          "z": 1,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 49,
+          "y": 6,
+          "z": 2,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 21,
+          "z": 2,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 72,
+          "y": 6,
+          "z": 3,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 21,
+          "z": 3,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 2,
+          "y": 28,
+          "z": 4,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 37,
+          "z": 4,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 25,
+          "y": 28,
+          "z": 5,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 37,
+          "z": 5,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 49,
+          "y": 28,
+          "z": 6,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 53,
+          "z": 6,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 72,
+          "y": 28,
+          "z": 7,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 53,
+          "z": 7,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 25,
+          "y": 50,
+          "z": 8,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 69,
+          "z": 8,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 49,
+          "y": 50,
+          "z": 9,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 69,
+          "z": 9,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "label": "Sine",
+        "underline": true,
+        "italic": false,
+        "bold": false,
+        "textAlignment": "LEFT",
+        "fontChoice": "ARIAL",
+        "textColor": "DARK_GRAY",
+        "backgroundColor": "TRANSPARENT",
+        "isBold": false,
+        "isItalic": false,
+        "desktopLayout": {
+          "x": 0,
+          "y": 73,
+          "z": 0,
+          "width": 24,
+          "height": 3,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 1,
+          "z": 0,
+          "width": 30,
+          "height": 3,
+          "locked": false
+        },
+        "type": "Line Header"
+      },
+      {
+        "desktopLayout": {
+          "x": 49,
+          "y": 121,
+          "z": 11,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 154,
+          "z": 11,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 49,
+          "y": 99,
+          "z": 12,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 138,
+          "z": 12,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 72,
+          "y": 99,
+          "z": 13,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 138,
+          "z": 13,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 25,
+          "y": 99,
+          "z": 14,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 122,
+          "z": 14,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 25,
+          "y": 121,
+          "z": 15,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 154,
+          "z": 15,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 25,
+          "y": 77,
+          "z": 16,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 90,
+          "z": 16,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 49,
+          "y": 77,
+          "z": 17,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 106,
+          "z": 17,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 72,
+          "y": 77,
+          "z": 18,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 17,
+          "y": 106,
+          "z": 18,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 2,
+          "y": 77,
+          "z": 19,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 90,
+          "z": 19,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "desktopLayout": {
+          "x": 2,
+          "y": 99,
+          "z": 20,
+          "width": 21,
+          "height": 21,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 122,
+          "z": 20,
+          "width": 15,
+          "height": 15,
+          "locked": false
+        },
+        "type": "Round Gauge"
+      },
+      {
+        "label": "Spike",
+        "underline": true,
+        "italic": false,
+        "bold": false,
+        "textAlignment": "LEFT",
+        "fontChoice": "ARIAL",
+        "textColor": "DARK_GRAY",
+        "backgroundColor": "TRANSPARENT",
+        "isBold": false,
+        "isItalic": false,
+        "desktopLayout": {
+          "x": 0,
+          "y": 144,
+          "z": 0,
+          "width": 24,
+          "height": 3,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 86,
+          "z": 0,
+          "width": 30,
+          "height": 3,
+          "locked": false
+        },
+        "databaseId": 46,
+        "type": "Line Header"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "clientId": 1,
+    "name": "Weather",
+    "category": "Uncategorized",
+    "navigationOrder": 1,
+    "accessLevel": "ALL_USERS",
+    "revision": 1438052371124,
+    "creator": "",
+    "groups": [],
+    "hidden": false,
+    "backgroundColor": "White",
+    "gadgets": [
+      {
+        "headerText": "Portland, OR",
+        "fontSize": 12,
+        "alignment": "LEFT",
+        "fontChoice": "ARIAL",
+        "textColor": "DARK_GRAY",
+        "isBold": false,
+        "isItalic": false,
+        "desktopLayout": {
+          "x": 1,
+          "y": 1,
+          "z": 0,
+          "width": 29,
+          "height": 55,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 1,
+          "z": 0,
+          "width": 32,
+          "height": 44,
+          "locked": false
+        },
+        "databaseId": 23,
+        "type": "Group Header"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22001",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 5,
+          "z": 1,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 4,
+          "z": 1,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22002",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 10,
+          "z": 2,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 8,
+          "z": 2,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22003",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 15,
+          "z": 3,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 12,
+          "z": 3,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22004",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 20,
+          "z": 4,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 16,
+          "z": 4,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22005",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 25,
+          "z": 5,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 20,
+          "z": 5,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22006",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 30,
+          "z": 6,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 24,
+          "z": 6,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22007",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 35,
+          "z": 7,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 28,
+          "z": 7,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22008",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 40,
+          "z": 8,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 32,
+          "z": 8,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22009",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 45,
+          "z": 9,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 36,
+          "z": 9,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "22010",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 2,
+          "y": 50,
+          "z": 10,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 40,
+          "z": 10,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "headerText": "Station 22002",
+        "fontSize": 12,
+        "alignment": "LEFT",
+        "fontChoice": "ARIAL",
+        "textColor": "DARK_GRAY",
+        "isBold": false,
+        "isItalic": false,
+        "desktopLayout": {
+          "x": 31,
+          "y": 1,
+          "z": 11,
+          "width": 29,
+          "height": 55,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 0,
+          "y": 45,
+          "z": 11,
+          "width": 32,
+          "height": 44,
+          "locked": false
+        },
+        "databaseId": 34,
+        "type": "Group Header"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Amsterdam",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 5,
+          "z": 12,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 48,
+          "z": 12,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Carlsbad",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 10,
+          "z": 13,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 52,
+          "z": 13,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Disneyland",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 15,
+          "z": 14,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 56,
+          "z": 14,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Hurkey Creek",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 20,
+          "z": 15,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 60,
+          "z": 15,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Las Vegas",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 25,
+          "z": 16,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 64,
+          "z": 16,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "London",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 30,
+          "z": 17,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 68,
+          "z": 17,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Paris",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 35,
+          "z": 18,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 72,
+          "z": 18,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Phoenix",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 40,
+          "z": 19,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 76,
+          "z": 19,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Portland",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 45,
+          "z": 20,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 80,
+          "z": 20,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      },
+      {
+        "fieldWidth": "MEDIUM",
+        "label": "Salt Lake City",
+        "numberFormat": "#.##",
+        "fontName": "Arial, Helvetica, sans-serif",
+        "fontItalic": false,
+        "fontBold": false,
+        "valueWhenTrue": "ON",
+        "valueWhenFalse": "OFF",
+        "alignment": "LEFT",
+        "labelFontChoice": "ARIAL",
+        "labelTextColor": "DARK_GRAY",
+        "labelIsBold": false,
+        "labelIsItalic": false,
+        "valueFontChoice": "ARIAL",
+        "valueTextColor": "BLUE",
+        "valueIsBold": false,
+        "valueIsItalic": false,
+        "desktopLayout": {
+          "x": 32,
+          "y": 50,
+          "z": 21,
+          "width": 27,
+          "height": 4,
+          "locked": false
+        },
+        "handheldLayout": {
+          "x": 1,
+          "y": 84,
+          "z": 21,
+          "width": 30,
+          "height": 4,
+          "locked": false
+        },
+        "type": "Value"
+      }
+    ]
+  }
+]

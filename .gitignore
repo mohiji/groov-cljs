@@ -1,5 +1,12 @@
 #### joe made this: https://goel.io/joe
 
+#####=== Project-specific files ===#####
+resources/public/js/dev
+resources/public/js/release
+resources/public/js/app*
+figwheel_server.log
+
+
 #####=== Clojure ===#####
 
 pom.xml

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!-- Bootstrap because who has the time to futz with all that CSS? -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/groov.css" rel="stylesheet">
+
+    <title>Rendering groov</title>
+  </head>
+
+  <body>
+    <!-- We tell React to render into a named element, so everything within this div
+         is going to be replaced once we start rendering. -->
+    <div id="app">
+      <div class="container">
+        <div class="row"><div class="col-xs-12">
+    			<h3>If you can see this, the application hasn't started yet.</h3>
+        </div></div>
+      </div>
+    </div>
+
+    <!-- React makes use of some JavaScript ES5 features that aren't available in older
+         browsers, notably Safari on the iPad 1. These two shim scripts polyfill in enough
+         ES5 features for React to work. -->
+    <script src="js/es5-shim.min.js" type="application/javascript"></script>
+    <script src="js/es5-sham.min.js" type="application/javascript"></script>
+
+    <!-- ClojureScript leans heavily on the Google Closure Library for basic functionality
+         and things like loading dependencies. We need to load that before anything else. -->
+    <script src="js/dev/out/goog/base.js" type="application/javascript"></script>
+
+    <!-- Then load up our application code itself. -->
+    <script src="js/app-dev.js" type="application/javascript"></script>
+
+    <!-- Finally, fire off our main function.  -->
+    <script type="application/javascript">
+      // groov.dev is set up to start up the Figwheel client, which is what handles live
+      // reloading of code and css.
+      goog.require("groov.dev");
+
+      // Our application code is in groov.core
+      goog.require("groov.core");
+
+      // Once everything is fully loaded, call main().
+      window.onload = function() {
+        groov.core.main();
+      };
+    </script>
+  </body>
+</html>
+
